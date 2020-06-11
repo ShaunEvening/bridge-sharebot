@@ -1,0 +1,13 @@
+{
+  "name": "bridge-sharebot",
+  "version": "0.0.1-alpha",
+  "description": "Slackbot to share job postings within the bridge community",
+  "main": "index.js",
+  "repository": "https://github.com/ShaunLloyd/bridge-sharebot",
+  "author": "A whole bunch of us",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "google-spreadsheet": "^3.0.11"
+  }
+}
